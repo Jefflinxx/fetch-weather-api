@@ -15,4 +15,5 @@ npm install
 node app.js
 
 展示畫面:
+
 ![image](/weather.png)
