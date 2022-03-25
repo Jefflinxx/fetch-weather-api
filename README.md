@@ -15,4 +15,4 @@ npm install
 node app.js
 
 展示畫面如下：
-!image[]
+!image[https://github.com/Jefflinxx/fetch-weather-api/blob/main/weather.png]
