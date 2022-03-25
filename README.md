@@ -14,5 +14,5 @@ npm install
 2.啟動
 node app.js
 
-展示畫面如下：
-![image](https://github.com/Jefflinxx/fetch-weather-api/blob/main/weather.png)
+展示畫面:
+![image](/weather.png)
